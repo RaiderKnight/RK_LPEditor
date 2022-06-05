@@ -1,6 +1,7 @@
 #RK_LPEditor
 <br>
-<img src="https://github.com/RaiderKnight/RK_LPEditor/blob/main/LPEditorOF500.jpg" alt"screenshot" />
+<br>
+<img src="https://github.com/RaiderKnight/RK_LPEditor/blob/main/LPEditorOF500.jpg" alt="screenshot" />
 <br>
 <p><strong>LPEditor</strong> is an application to create/edit content for the LifePlay game and helps you to create your mod/addon faster.</p>
 <p>It works well with small, medium, large and very large files.</p>
