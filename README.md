@@ -17,7 +17,7 @@
 <p><strong>Also:</strong></p>
 <ul>
 <li>Contain 2 editors</li>
-<li>Syntax highligth</li>
+<li>Syntax highlight</li>
 <li>Diff and Merge</li>
 <li>You can cut, copy, paste, save...</li>
 <li>You can create folders for your mod.</li>
