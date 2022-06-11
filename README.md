@@ -42,7 +42,6 @@
 <p>LPEditor is in ultra Beta phase W.I.P :)</p>
 <p>Although the application works, it does not contain all the creation/syntax options and several warnings have not been implemented yet. It may also contain some bugs and other defects (styles, coding and others).</p>
 <br>
-<p>Application based on the version of <a href="https://github.com/PavelTorgashov/FastColoredTextBox">Pavel Torgashov</a></p>
 <br>
 <hr>
 <br>
@@ -60,6 +59,10 @@
 <br>
 <h3>Contributors</h3>
 <br>
+<br>
+<h3>Acknowledgements</h3>
+<p>Pavel Torgashov (https://github.com/PavelTorgashov/FastColoredTextBox)</p>
+<p>famfamfam.com Icons (http://famfamfam.com)</p>
 <br>
 <hr>
 <br>
