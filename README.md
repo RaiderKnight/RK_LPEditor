@@ -23,6 +23,7 @@
 <li>Diff and Merge</li>
 <li>You can cut, copy, paste, save...</li>
 <li>You can create folders for your mod.</li>
+<li>You are informed when a new version of a LPEditor is available.</li>
 <li>And many more options to come!</li>
 </ul>
 <br>
