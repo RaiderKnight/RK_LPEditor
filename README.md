@@ -11,6 +11,7 @@
 <li>lpaction</li>
 <li>lpaddon</li>
 <li>lpmod</li>
+<li>lpquest</li>
 <li>lpstat</li>
 <li>Or a XML tag for the RK Launcher</li></ul>
 <br>
@@ -18,6 +19,7 @@
 <ul>
 <li>Contain 2 editors</li>
 <li>Syntax highlight</li>
+<li>Basic IntelliSense</li>
 <li>Diff and Merge</li>
 <li>You can cut, copy, paste, save...</li>
 <li>You can create folders for your mod.</li>
@@ -42,23 +44,20 @@
 <p>LPEditor is in ultra Beta phase W.I.P :)</p>
 <p>Although the application works, it does not contain all the creation/syntax options and several warnings have not been implemented yet. It may also contain some bugs and other defects (styles, coding and others).</p>
 <br>
+<hr>
+<br>
+<h3>Contributing</h3>
+<p>Visit the <a href="https://lifeplay.site">Raider Knight community forums</a> or my <a href="https://discord.gg/d3U9E2wb4Y">Discord</a> server for help, to submit a bug, to contribute to the improvement of the application or just to chat!</p>
 <br>
 <hr>
 <br>
-<h3>How to contribute, report bugs or submit suggestions?</h3>
+<h3>Supporting</h3>
 <ul>
-<li>Visit the <a href="https://lifeplay.site">LifePlay community forums</a></li>
-<li>Supporting me on <a href="https://www.patreon.com/raiderknight">Patreon</a></li>
-<li>Sending your ideas or feedback: Here on Github or on <a href="https://discord.gg/d3U9E2wb4Y">Discord</a></li>
-<li>Adding more content to the module.</li>
-<li>Improving the module, texts,...</li>
-<li>Reporting bugs, errors and typos</li>
+<li>Via <a href="https://www.patreon.com/raiderknight">Patreon</a></li>
+<li>Via <a href="https://www.buymeacoffee.com/raiderknight">Discord</a></li>
 </ul>
 <br>
 <hr>
-<br>
-<h3>Contributors</h3>
-<br>
 <br>
 <h3>Acknowledgements</h3>
 <p>Pavel Torgashov (https://github.com/PavelTorgashov/FastColoredTextBox)</p>
@@ -66,6 +65,3 @@
 <br>
 <hr>
 <br>
-<blockquote> I'm a freelance coder, who love playing with codes.<br>
-I am not affiliated, associated, authorized, endorsed by, or in any way officially connected with the LifePlay team, or any of its subsidiaries or its affiliates.<br>
-All images, icons, animations, code snippets are from LifePlay.</blockquote>
