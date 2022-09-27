@@ -1,4 +1,4 @@
-#RK_LPEditor
+#RK_LPEditor - ABANDONED
 <br>
 <br>
 <img src="https://github.com/RaiderKnight/RK_LPEditor/blob/main/LPEditorOF500.jpg" />
